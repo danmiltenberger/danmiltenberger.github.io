@@ -11,3 +11,11 @@ If you're considering me as an intern, please check out my **warehouse analysis 
 I have experience with **research**, **programming**, and working along assembly lines and regulated industries. Please check out some of my **projects** or my **blog**, where I write about stuff I wish I knew a couple years ago.
 
 I love to learn! I taught myself (well, youtube taught me) how to program and I was able to put this site together! If a page doesn't load right, well, it's part of the learning experience. 
+
+TODO
+- [] add warehouse analysis project page
+- [] add page talking about research
+- [] add page talking about the draw bot program
+- [] add more pictures and stuff
+- [] connect this to obsidian and start publishing straight from my desktop
+- [] start blogging regularly
