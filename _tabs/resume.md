@@ -4,13 +4,6 @@ icon: fas fa-file
 order: 1
 ---
 
-# Hi!
-
-
-Hi, I’m Dan, a 3rd year mechanical engineering student at Virginia Commonwealth University. When I’m not studying, you can find me rowing with my crew team on the James river, jogging along the capital trail, or running D&D games! 
-
-I’m looking for a summer internship where I can help design life-changing medical devices. I’ve gotten valuable experience in project management and leadership from my internship at Volvo and working at VCU Library’s makerspace.
-
 ## Aerosols in Medicine Lab - VCU
 
 ## Volvo - Mack Trucks
