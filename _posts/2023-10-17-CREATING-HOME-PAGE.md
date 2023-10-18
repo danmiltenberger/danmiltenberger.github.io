@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding images to Chirpy / Jekyll"
+title: "Creating a better home page"
 date: 2023-10-14
 categories: test
 ---
