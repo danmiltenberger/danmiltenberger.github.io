@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to the website!"
+title: "Studying to Design a Better Future!"
 date: 2023-10-14
 categories: test
 ---
