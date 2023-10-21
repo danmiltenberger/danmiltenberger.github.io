@@ -75,7 +75,7 @@ The only limitation was how fast the computer could chew up the data
 
 
 ### IF good, showteam()
-Here's an example drawing using my program versus a previous file. This is formatted for a standard 8.5x11 sheet of paper and saved them as pdfs and pngs.
+Here's an example drawing using my program versus a previous file. This is formatted for a standard 8.5x11 sheet of paper and saved them as pdfs and pngs..
 
 ### Status Quo
 ![current version](/assets/images/10_21_current_view.png)
