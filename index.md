@@ -2,7 +2,7 @@
 layout: page
 title: "Studying to Design a Better Future!"
 date: 2023-10-14
-categories: test
+
 ---
 
 If you're reading this, the website is working.

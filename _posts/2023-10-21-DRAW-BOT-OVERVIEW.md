@@ -2,8 +2,7 @@
 layout: post
 title: "DrawBot - My Coolest Project So Far"
 date: 2023-10-21
-categories: Projects
-tags: Programming, Mack Trucks
+
 ---
 
 During the summer of 2023, I was an industrial engineering intern at Mack Trucks, where I worked in the logistics department. At Lehigh Valley Operations (LVO) all parts came in standard boxes called emballages or totes. These were loaded onto racks like those shown below. When the first box was empty, it was moved out of the way and the next box rolled forward.

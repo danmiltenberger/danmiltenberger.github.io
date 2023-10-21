@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a better home page"
 date: 2023-10-14
-categories: test
+
 ---
 
 I’m Dan, a mechanical engineering student at VCU in beautiful Richmond Virginia. I’m looking for a Summer 2024 internship or Co-Op helping design medical devices.
