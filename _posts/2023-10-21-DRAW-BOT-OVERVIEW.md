@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DrawBot - My Coolest Project So Far"
-date: 2023-10-17
+date: 2023-10-21
 categories: Projects
 tags: Programming, Mack Trucks
 ---
@@ -10,10 +10,10 @@ During the summer of 2023, I was an industrial engineering intern at Mack Trucks
 
 The racks had a "flag" with the location ID and two diagrams, the logistic view and production view of the cart. Not all carts had these flags, it was going to be a new plant standard. That meant that, as a conservative estimate, at least 500 racks would need these diagrams. So, over 1000 drawings.
 ##### Rack Flag
-**![](https://lh4.googleusercontent.com/5gGdDkDqmQ2jrx1PlYtB-JHIM4F81h0TAk_GspRILX6_D-XaWh1sDs_xtwdwei6ld5Dpy5A6FanflGbb4vVqT035DNdiFZc6dbzStckccxGyWx2RfX3EaflO4nHxtDnjd_odvpjbXb_S7mv70P6CQ3uKeg=s2048)** Flags on a rack
+![Image of the rack's flag](/assets/images/10_21_flag.png) Flags on a rack
 
 ##### Full Rack, Production Side
-**![](https://lh3.googleusercontent.com/EzQuTU0n3r-HiH9gKrOe9FHqEL4PqFnIVCs6GQMS2dulEVRg-kJmPCk6zIj9SeX8gt8C3cTggd7YSNRlE3ZgqPAOoagCIj2iZ9RTZP62PzjNsoeb8OnqneMn5avbhfk2sES8G98jJZMhbhHuu7b0Ma8Yew=s2048)**
+![Image of the full rack](/assets/images/10_21_full_rack.png)
 
 
 
@@ -23,7 +23,7 @@ Making these drawings... was not fun. Each tote was copied, pasted, and dragged 
 > This was slow, inaccurate, and worst of all had to be done all over again
 
 ##### Rack Diagram
-**![](https://lh5.googleusercontent.com/1bVjrjlXyhJm7lf5NIdPeftLMbcl4iLl-7wbJjQJi1TyAxM12pQQosgDgGLX0AZ-OvkTTOrBIbNh6psDzhzZ8_B4Nnuppq9d7Zz7sP1FeXanWDXRqzJa5azx7CdmjNqXbdftvNpJhnM_QEqlqnnl5gcLlQ=s2048)**
+![image2](/assets/images/10_21_current_view.png)
 
 ##### An Opportunity
 During summer shutdown, all the departments go on vacation except logistics. On a very tight schedule, the logistics team makes the moves they've been planning for months. It was my last two weeks and all my supervisors and coworkers were very busy with work that an intern couldn't really help with. In short, I was totally unsupervised. I guess I could've kicked back, drank the coffee, and relaxed for two weeks. 
@@ -74,10 +74,9 @@ for index, tote in row_df.iterrows():
 
 ##### IF good, showteam()
 Here's an example drawing using my program versus a previous file. This is formatted for a standard 8.5x11 sheet of paper and saved them as pdfs and pngs.
-![[1S35012_Production_view.png]]
+![current version](/assets/images/10_21_current_view.png)
 
-
-![[Current State.png]]
+![my version](/assets/images/10_21_my_production_view.png)
 
 #### IF team_likes_it == TRUE; return results.df
 My last Friday meeting, I showed the team. It was really fun to surprise the team with something that "they had been asking for, for years!" To say that they were impressed is an understatement. One of the full time engineers who had been working there for five years had apparently asked for something like this before and the IT department said that "it would never happen." I made it happen in a week!
