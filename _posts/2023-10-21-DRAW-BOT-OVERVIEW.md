@@ -20,7 +20,6 @@ The racks had a "flag" with the location ID and two diagrams, the logistic view 
 #### The Challenge
 Making these drawings... was not fun. Each tote was copied, pasted, and dragged into position by engineers who had better things to do. Part numbers were manually typed. Create text box, resize text box, type part number, etc. This was slow, inaccurate, and worst of all had to be done all over again for the production view, which is a mirror image. 
 
-> This was slow, inaccurate, and worst of all had to be done all over again
 
 #### Rack Diagram
 ![image2](/assets/images/10_21_current_view.png)
@@ -28,7 +27,6 @@ Making these drawings... was not fun. Each tote was copied, pasted, and dragged 
 #### An Opportunity
 During summer shutdown, all the departments go on vacation except logistics. On a very tight schedule, the logistics team makes the moves they've been planning for months. It was my last two weeks and all my supervisors and coworkers were very busy with work that an intern couldn't really help with. In short, I was totally unsupervised. I guess I could've kicked back, drank the coffee, and relaxed for two weeks. 
 
-> In short, I was totally unsupervised. I guess I could've kicked back, drank the coffee, and relaxed for two weeks. 
 
 ... or I could try to pull this off.
 
@@ -89,7 +87,3 @@ My last Friday meeting, I showed the team. It was really fun to surprise the tea
 This program could draw over 1000 diagrams in the time it took one full time engineer to make a single diagram. Working with my supervisors, we decided that for 400 drawings, an hour a drawing, $57 an hour, this project would save $22,800 a year. Presumably it would have an additional savings for the first big print to get all racks up to standard.
 
 This has other benefits too. Production views weren't being drawn because they took too much time, but they are super useful. I knew as well as anyone that the logistic department terminology was different than material handling, and different than the manufacturing department, you get the idea. The best part of this project was effectively giving other people the information they needed to improve ergonomics for their station.
-
-> The best part of this project was effectively giving other people the information they needed
-
-… and it hopefully will replace that ugly red "Logistics Side View!" 
