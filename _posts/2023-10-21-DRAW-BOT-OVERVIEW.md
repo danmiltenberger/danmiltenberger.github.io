@@ -2,8 +2,12 @@
 layout: post
 title: "DrawBot - My Coolest Project So Far"
 date: 2023-10-21
-
 ---
+Fast Read:
+1. I decided to improve how logistics diagrams were drawn (without being told)
+2. I automated the whole process, making it faster and more accurate.
+3. I learned how to use different libraries in python and work with lots of data
+4. The program can now do the job faster and more accurately, saving ~$23,000 a year and 400 hours
 
 During the summer of 2023, I was an industrial engineering intern at Mack Trucks, where I worked in the logistics department. At Lehigh Valley Operations (LVO) all parts came in standard boxes called emballages or totes. These were loaded onto racks like those shown below. When the first box was empty, it was moved out of the way and the next box rolled forward.
 
