@@ -4,12 +4,14 @@ icon: fas fa-file
 order: 1
 ---
 
-## PDF: [Dan Miltenberger Resume Fall 2023](/assets/images/Dan Miltenberger Resume Fall 2023.pdf){:target="_blank"}  
+## Printable PDF: [Dan Miltenberger Resume Fall 2023](/assets/images/Dan Miltenberger Resume Fall 2023.pdf){:target="_blank"}  
 
 
 ### More Details
 ##### Aerosols in Medicine Lab - VCU
-I'm currently working part time in this laboratory which is working on better ways to disperse surfactant to the lungs. Day to day, I'm printing the same part using different printer settings and testing particle dispersion using an anderson cascade impacter. From there, I analyze the data using a UV visualizer to find the particle concentration. The hopeful goal is to publish this work and help set a new standard of 3D printing for aerolized medicine. I'm learning how to stay organized while creating custom fixtures and tooling to improve my personal efficiency.
+I'm currently working part time in this laboratory which is working on better ways to disperse surfactant to the lungs. You can find an overview of the lab from vcu news,  [VCU Researchers Developing Affordable Noninvasive Treatment for RDS in newborns](https://news.vcu.edu/article/2023/08/vcu-researchers-developing-affordable-noninvasive-treatment-for-rds-in-newborns).
+
+Day to day, I'm printing the same part using different printer settings and testing particle dispersion using an anderson cascade impacter. From there, I analyze the data using a UV visualizer to find the particle concentration. The hopeful goal is to publish this work and help set a new standard of 3D printing for aerosolized medicine. I'm learning how to stay organized while creating custom fixtures and tooling to improve my personal efficiency.
 
 ##### Volvo - Mack Trucks
 I worked as an industrial engineering intern at Mack’s Lehigh Valley Operations. I worked for the logistics department and helped ensure that all 120 trucks / day had the right parts at the right time. I learned python during my first few weeks and used my programming knowledge to build an RPA and automate over 300 hours of repetitive tasks, saving the department an estimated $40,000 per year. It was a major morale boost too.
