@@ -39,18 +39,19 @@ I won't go line by line with my code, but it really stretched my skills as a pro
 Halfway through the project I realized that I could have my program read directly from the plant database. Until then my program took the manual clicking and dragging out of the work. Connecting to the database meant that at the click of a button, the bot could pull the information it needed and draw all the diagrams. Not all the diagrams for the rack, or for the aisle, but for the whole plant. 
 
 ### Some code I wrote
-```Python
+{% highlight Python %}
 def main():
 
-    plant_df = clean_input_data()
-    print(print_settings_df)
-    print()
-    input("If these settings are correct, hit any key. Otherwise, change them in the READ File - Settings Sheet")
-    draw_plant(plant_df)
-    print("DBOT - Draw Logi and Prod Views - Program Complete")
-    input()     # program stays open until a key is pressed
-```
-```Python
+plant_df = clean_input_data()
+print(print_settings_df)
+print()
+input("If these settings are correct, hit any key. Otherwise, change them in the READ File - Settings Sheet")
+draw_plant(plant_df)
+print("DBOT - Draw Logi and Prod Views - Program Complete")
+input()     # program stays open until a key is pressed
+{% endhighlight %}
+
+{% highlight Python %}
 for index, tote in row_df.iterrows():
 	part_num = round(tote["Part Number"])
 	type_of_tote = tote['Emballage Type']
@@ -69,7 +70,7 @@ for index, tote in row_df.iterrows():
 	tote_im = get_tote_im(tote)
 	tote_width, tote_height = tote_im.size
 	vert_offset = get_vert_offset(tote,tote_height)
-```
+{% endhighlight %}
 
 The only limitation was how fast the computer could chew up the data
 
