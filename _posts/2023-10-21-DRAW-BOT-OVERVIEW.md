@@ -35,7 +35,7 @@ During summer shutdown, all the departments go on vacation except logistics. On 
 
 ## Programming and Programming and Programming
 I won't go line by line with my code, but it really stretched my skills as a programmer of 3 months. I used PIL, the python imaging library, to paste the totes onto the diagram with pixel perfect precision. I got used to working with Pandas, which is a library to work with large databases.
-
+       
 Halfway through the project I realized that I could have my program read directly from the plant database. Until then my program took the manual clicking and dragging out of the work. Connecting to the database meant that at the click of a button, the bot could pull the information it needed and draw all the diagrams. Not all the diagrams for the rack, or for the aisle, but for the whole plant. 
 
 ## Some code I wrote
