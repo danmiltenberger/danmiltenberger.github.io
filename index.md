@@ -4,9 +4,6 @@ title: "Studying to Design a Better Future!"
 date: 2023-10-21
 
 ---
-
-If you're reading this, the website is working.
-
 ## Hi!
 
 I'm Dan Miltenberger, a mechanical engineering student at Virginia Commonwealth University. I'm a current senior and I'll be graduating May 2025. 
