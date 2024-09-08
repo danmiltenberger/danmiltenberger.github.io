@@ -4,7 +4,7 @@ icon: fas fa-file
 order: 1
 ---
 
-## Printable PDF: [Dan Miltenberger Resume Fall 2023](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"}  
+## Printable PDF: [Dan Miltenberger Resume Fall 2024](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"}  
 
 
 ### More Details
