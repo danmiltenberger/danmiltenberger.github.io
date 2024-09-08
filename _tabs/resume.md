@@ -4,7 +4,7 @@ icon: fas fa-file
 order: 1
 ---
 
-## Printable PDF: [Dan Miltenberger Resume Fall 2023](/assets/images/Dan Miltenberger Resume Fall 2023.pdf){:target="_blank"}  
+## Printable PDF: [Dan Miltenberger Resume Fall 2024](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"}  
 
 
 ## Engineering Experience
@@ -13,7 +13,10 @@ I'm currently working part time in this laboratory which is working on better wa
 
 Day to day, I'm printing the same part using different printer settings and testing particle dispersion using an anderson cascade impacter. From there, I analyze the data using a UV visualizer to find the particle concentration. The hopeful goal is to publish this work and help set a new standard of 3D printing for aerosolized medicine. I'm learning how to stay organized while creating custom fixtures and tooling to improve my personal efficiency.
 
-#### Volvo - Mack Trucks
+##### B. Braun Medical
+I was a Product Development Intern in the R&D department in the OEM team for the summer of 2024.  I developed 3D models and VBA programs to improve testing of medical devices in a regulated industry. Day to day, I communicated with customers, technicians, and subject matter experts on testing procedures. My main priorities were coordinating project timelines and deliverables such as tests and quotes. The best part of the summer was the final internship presentation, where I was able to show to the team and other interns the work I had done, including writing a program to automatically format the data recieved from one of the testing platforms. I was super excited to learn that next day that I had gotten first place for the presentation! I had a great time working in the medical device industry and I hope I can continue this important work. 
+
+##### Volvo - Mack Trucks
 I worked as an industrial engineering intern at Mack’s Lehigh Valley Operations. I worked for the logistics department and helped ensure that all 120 trucks / day had the right parts at the right time. I learned python during my first few weeks and used my programming knowledge to build an RPA and automate over 300 hours of repetitive tasks, saving the department an estimated $40,000 per year. It was a major morale boost too.
 
 Hundreds of small pallets were “double parked” in the main logistics warehouse in the plant. I did an in depth analysis of the storage issues and created a PowerBI to show that the plant was wasting over 300 pallet slots every day. Based on the data in my report, the material handling department will likely implement a plan to reorganize the warehouse and save $648,000 per year.
