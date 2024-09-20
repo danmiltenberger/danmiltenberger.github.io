@@ -15,7 +15,7 @@ Currently I'm assisting research in the Gates foundation funded Aerosols in Medi
 Last summer, I worked as an OEM Product Developement Intern at B. Braun Medical Inc. I developed 3D models and VBA programs to improve testing of medical devices in a regulated industry. 
 Day to day, I communicated with customers, technicians, and subject matter experts on testing procedures. My main priorities were coordinating project timelines and deliverables such as tests and quotes. 
 
-The summer before, I was an industrial engineering intern at Mack Trucks (Volvo Group). I got to walk along an active assembly line (120 trucks a day) and help improve the logistics department. I eliminated 700 hours of tedious work and saved $40,000. I also wrote an algorithm that analyzed how pallets in a plant warehouse were stored. Following my report's recommendations, the team could save $648,000 a year in storage space. 
+The summer before, I was an industrial engineering intern at Mack Trucks (Volvo Group). I got to walk along an active assembly line (120 trucks a day) and help improve the logistics department. Through different robotic process automationions (RPA)s, I eliminated 700 hours of tedious work and saved $40,000. I also wrote an algorithm that analyzed how pallets in a plant warehouse were stored. Following my report's recommendations, the team could save $648,000 a year in storage space. 
 
 For the past 3 years I've been working at my school's makerspace "The Workshop" where I taught over 200 people how to use 3D printers and lasercutters in weekly orientations.
 
