@@ -4,9 +4,9 @@ title: "Studying to Design a Better Future!"
 date: 2023-10-21
 
 ---
-## Hi!
+## Hello!
 
-I'm Dan Miltenberger, a mechanical engineering student at Virginia Commonwealth University. I'm a current senior and I'll be graduating May 2025. 
+I'm Dan Miltenberger, a mechanical engineering student at Virginia Commonwealth University. I'm a current senior and I'll be graduating May 2025. I'm a Tau Beta Pi scholar with a GPA of 3.8. 
 
 I'm currently looking for a full time job in the medical device industry, with an emphasis on active devices like surgical robotics. I want to be an engineer that helps design a better future. Please consider taking a look at my resume here: [Dan Miltenberger Resume Fall 2024](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"}. If you would like to learn more about my work and projects, please consider checking the [resume tab](https://danmiltenberger.github.io/resume/) which provides more information. 
 
