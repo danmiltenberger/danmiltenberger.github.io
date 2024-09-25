@@ -8,7 +8,7 @@ date: 2023-10-21
 
 I'm Dan Miltenberger, a mechanical engineering student at Virginia Commonwealth University. I'm a current senior and I'll be graduating May 2025. 
 
-I'm currently looking for a full time job in the medical device industry, with an emphasis on active devices like surgical robotics. I want to be an engineer that helps design a better future. 
+I'm currently looking for a full time job in the medical device industry, with an emphasis on active devices like surgical robotics. I want to be an engineer that helps design a better future. Please consider taking a look at my resume here: [Dan Miltenberger Resume Fall 2024](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"}. If you would like to learn more about my work and projects, please consider checking the [resume tab](https://danmiltenberger.github.io/resume/) which provides more information. 
 
 I'm currently assisting research in the _Gates Foundation_ funded Aerosols in Medicine (AIM) Lab, working to improve the powder dispersion of infant surfactant, which helps babies breath. This semester I'm working on a new way of drawing the geometry of the bottom of the powder chamber, using CT scans, MRI imaging software, and custom programming to combine data into custom curves to optimize performance. If all goes well, I'll write a post about it soon - though feel free to ask about it during an interview! 
 
