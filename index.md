@@ -20,9 +20,9 @@ For the past 3 years I've been working at my school's makerspace "The Workshop" 
 
 ## Please take a look at some of my projects! 
 
-An example of my 3D modeling, teamwork and communication skills is in the [Rxit Pill Dispenser](https://danmiltenberger.github.io/posts/PILL-PEZ-DISPENSER/), which won first place in my Mechanical Systems Design class. 
+An example of my 3D modeling, teamwork and communication skills is in the [Rxit Pill Dispenser](https://danmiltenberger.github.io/posts/Rxit_pill_dispenser/), which won first place in my Mechanical Systems Design class. 
 
-An example of my programming and independent problem solving is [DrawBot](https://danmiltenberger.github.io/posts/DRAW-BOT-OVERVIEW/), a program which automated logistics diagrams at Mack. It saved money, time, and made a lot of people really happy. 
+An example of my programming and independent problem solving is [DrawBot](https://danmiltenberger.github.io/posts/drawbot/), a program which automated logistics diagrams at Mack. It saved money, time, and made a lot of people really happy. 
 
 If my experience and portfolio sound interesting to you, please consider taking a look at my [resume pdf](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"}. 
 You could find a more in-depth explanation of my work on the [resume tab](https://danmiltenberger.github.io/resume/). If you would like to reach out please do so through my [linkedin](https://www.linkedin.com/in/dan-miltenberger/) or my school email miltenbergerd@vcu.edu. 
