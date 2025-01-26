@@ -41,8 +41,11 @@ jobs:
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
+
+        # got build issues, followed this page:
+        # https://github.com/alshedivat/al-folio/issues/2058#issuecomment-1884239008
         with:
-          ruby-version: 3
+          ruby-version: '3.2.2'
           bundler-cache: true
 
       - name: Build site
