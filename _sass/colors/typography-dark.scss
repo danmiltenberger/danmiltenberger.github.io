@@ -4,26 +4,28 @@
 
 @mixin dark-scheme {
   /* Framework color */
-  --main-bg: rgb(27, 27, 30);
-  --mask-bg: rgb(68, 69, 70);
-  --main-border-color: rgb(44, 45, 45);
+  --main-bg: #422409;
+  --mask-bg: #422409;
+  --main-border-color: #944D23;
 
   /* Common color */
-  --text-color: rgb(175, 176, 177);
-  --text-muted-color: #868686;
-  --text-muted-hightlight-color: #aeaeae;
-  --heading-color: #cccccc;
+  --text-color: #FFFDF7;
+  --text-muted-color: #E9C46A;
+  --text-muted-hightlight-color: #F0F6F7;
+  --heading-color: #FCEFD7;
   --label-color: #a7a7a7;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: #868686;
-  --link-color: rgb(138, 180, 248);
-  --link-underline-color: rgb(82, 108, 150);
+
+  --link-color: #E9C46A;
+  --link-underline-color: #E9C46A;
+
   --button-bg: #1e1e1e;
-  --btn-border-color: #2e2f31;
+  --btn-border-color: #944D23;
   --btn-backtotop-color: var(--text-color);
-  --btn-backtotop-border-color: #212122;
+  --btn-backtotop-border-color: #F0A684;
   --btn-box-shadow: var(--main-bg);
-  --card-header-bg: #292929;
+  --card-header-bg: #2A9D8F;
   --checkbox-color: rgb(118, 120, 121);
   --checkbox-checked-color: var(--link-color);
   --img-bg: radial-gradient(circle, rgb(22, 22, 24) 0%, rgb(32, 32, 32) 100%);
@@ -35,43 +37,43 @@
   );
 
   /* Sidebar */
-  --site-title-color: #717070;
-  --site-subtitle-color: #868686;
-  --sidebar-bg: #1e1e1e;
-  --sidebar-border-color: #292929;
-  --sidebar-muted-color: #868686;
-  --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
-  --sidebar-btn-bg: #232328;
-  --sidebar-btn-color: #787878;
-  --avatar-border-color: rgb(206, 206, 206, 0.9);
+  --site-title-color: #FCEFD7;
+  --site-subtitle-color: #FAE3BE;
+  --sidebar-bg: #264653;
+  --sidebar-border-color: #E9C46A;
+  --sidebar-muted-color: #E9C46A;
+  --sidebar-active-color: #FFFDF7;
+  --sidebar-hover-bg: #AD452D;
+  --sidebar-btn-bg: #D15D43;
+  --sidebar-btn-color: #FFFAF0;
+  --avatar-border-color: #E9C46A;
 
   /* Topbar */
-  --topbar-bg: rgb(27, 27, 30, 0.64);
+  --topbar-bg: var(--main-bg);
   --topbar-text-color: var(--text-color);
-  --search-border-color: rgb(55, 55, 55);
-  --search-icon-color: rgb(100, 102, 105);
-  --input-focus-border-color: rgb(112, 114, 115);
+  --search-border-color: var(--avatar-border-color);
+  --search-icon-color: var(--avatar-border-color);
+  --input-focus-border-color: #D15D43;
 
   /* Home page */
   --post-list-text-color: rgb(175, 176, 177);
   --btn-patinator-text-color: var(--text-color);
-  --btn-paginator-hover-color: #2e2e2e;
+  --btn-paginator-hover-color: #E76F51;
 
   /* Posts */
   --toc-highlight: rgb(116, 178, 243);
-  --tag-hover: rgb(43, 56, 62);
-  --tb-odd-bg: #252526; /* odd rows of the posts' table */
-  --tb-even-bg: rgb(31, 31, 34); /* even rows of the posts' table */
+  --tag-hover: #E76F51;
+  --tb-odd-bg: #E76F51; /* odd rows of the posts' table */
+  --tb-even-bg: #F4A261; /* even rows of the posts' table */
   --tb-border-color: var(--tb-odd-bg);
   --footnote-target-bg: rgb(63, 81, 181);
-  --btn-share-color: #6c757d;
-  --btn-share-hover-color: #bfc1ca;
-  --card-bg: #1e1e1e;
-  --card-hovor-bg: #464d51;
-  --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0,
-    rgb(137, 135, 135, 0.24) 0 0 0 1px;
-  --kbd-wrap-color: #6a6a6a;
+  --btn-share-color: #E76F51;
+  --btn-share-hover-color: #AD452D;
+  --card-bg: #E9C46A;
+  --card-hovor-bg: #E76F51;
+  --card-shadow: #E9C46A 0 6px 18px 0,
+    #E9C46A 0 0 0 1px;
+  --kbd-wrap-color: #E76F51;
   --kbd-text-color: #d3d3d3;
   --kbd-bg-color: #242424;
   --prompt-text-color: rgb(216, 212, 212, 0.75);
@@ -91,13 +93,13 @@
   --search-tag-bg: #292828;
 
   /* categories */
-  --categories-border: rgb(64, 66, 69, 0.5);
+  --categories-border: rgb(64, 66, 69);
   --categories-hover-bg: rgb(73, 75, 76);
   --categories-icon-hover-color: white;
 
   /* archives */
   --timeline-node-bg: rgb(150, 152, 156);
-  --timeline-color: rgb(63, 65, 68);
+  --timeline-color: #F4A261;
   --timeline-year-dot-color: var(--timeline-color);
 
   .light {
@@ -134,11 +136,11 @@
   #archives li:nth-child(odd) {
     background-image: linear-gradient(
       to left,
-      rgb(26, 26, 30),
-      rgb(39, 39, 45),
-      rgb(39, 39, 45),
-      rgb(39, 39, 45),
-      rgb(26, 26, 30)
+      #422409,
+      #422409,
+      #422409,
+      #422409,
+      #422409,
     );
   }
 
