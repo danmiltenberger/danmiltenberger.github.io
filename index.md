@@ -6,7 +6,7 @@ date: 2025-01-26
 ---
 ## Hello!
 
-I'm Dan Miltenberger, a mechanical engineering student at Virginia Commonwealth University (VCU). I'm graduating May 2025 and currently looking for a full time job in the medical device industry, with an emphasis on active devices like surgical robotics. I want to be an engineer that helps design a better future. Please check out my [resume (PDF)](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"} or continue scrolling for a more conversational explanation of my education, experience, and projects. I like to describe myself as an individual that goes above and beyond, like coding my own website (if you're reading this it's working!) or building a working prototype even when it wasn't part of the assignment. If that sounds interesting to you, please reach out through danmiltenberger25@gmail.com
+I'm Dan Miltenberger, a mechanical engineering student at Virginia Commonwealth University (VCU). I'm graduating May 2025 and currently looking for a full time job in the medical device industry, with an emphasis on active devices like surgical robotics. I want to be an engineer that helps design a better future. Please check out my [resume (PDF)](/assets/images/DM Resume.pdf){:target="_blank"} or continue scrolling for a more conversational explanation of my education, experience, and projects. I like to describe myself as an individual that goes above and beyond, like coding my own website (if you're reading this it's working!) or building a working prototype even when it wasn't part of the assignment. If that sounds interesting to you, please reach out through danmiltenberger25@gmail.com
 
 Best!
 Dan 
