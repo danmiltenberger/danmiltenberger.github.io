@@ -4,7 +4,7 @@ icon: fas fa-file
 order: 1
 ---
 
-## Printable PDF: [Dan Miltenberger Resume Fall 2024](/assets/images/Dan Miltenberger Resume Fall 2024.pdf){:target="_blank"}  
+![image2](/assets/images/DM Resume.svg)
 
 
 ## Engineering Experience
