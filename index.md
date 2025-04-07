@@ -6,12 +6,20 @@ date: 2025-01-26
 ---
 ## Hello!
 
-I'm Dan Miltenberger, a mechanical engineering student at Virginia Commonwealth University (VCU). I'm graduating May 2025 and currently looking for a full time job in the medical device industry, with an emphasis on active devices like surgical robotics. I want to be an engineer that helps design a better future. Please check out my [resume (PDF)](/assets/images/DM Resume.pdf){:target="_blank"} or continue scrolling for a more conversational explanation of my education, experience, and projects. I like to describe myself as an individual that goes above and beyond, like coding my own website (if you're reading this it's working!) or building a working prototype even when it wasn't part of the assignment. If that sounds interesting to you, please reach out through danmiltenberger25@gmail.com
+I'm Dan Miltenberger, a mechanical engineering senior at Virginia Commonwealth University (VCU). Fall 2025, I will be continuing my education by pursuing a Professional Masters in Mechanical Engineering at University of Colorado-Boulder. I'm eager to contribute to medical device development, with an emphasis on active devices like surgical robotics.
+
+I want to be an engineer that helps design a better future. Please check out my [resume (PDF)](/assets/images/DM Resume.pdf){:target="_blank"} or continue scrolling for a more conversational explanation of my education, experience, and projects. I like to describe myself as an individual that goes above and beyond, like coding my own website (if you're reading this it's working!) or building a working prototype even when it wasn't part of the assignment. If that sounds interesting to you, please reach out through danmiltenberger25@gmail.com
 
 Best!
 Dan 
 
 ## Education
+### University of Colorado-Boulder
+Professional Master of Science in Mechanical Engineering
+Fall 2025 - Spring 2027
+_stay tuned!_
+
+
 ### Virginia Commonwealth University
 Bachelor of Science in Mechanical Engineering, Minor in Mathematics
 
@@ -23,7 +31,7 @@ B. Braun Medical Inc. (May to August 2024)
 
 In the OEM / Internation divison, we worked like our own company where our clients were other medical device manufactuers. I learned how to contribute to over 10 different projects at different stages of development, keeping organized and communicating effectively across many departments. I worked closely with techincians in the testing lab, quality engineers, manufacturing engineers, sales, and customers. A typical day ranged from joining a customer call in the morning and touring a sterilization chamber in the afternoon. I gained a whole picture view of medical device development from an industry perspective, including working with FDA and MDA regulations, good documentation practices, rapid aging and sterilization, and more. 
 
-I led an IV spike validation project for a client from start to finish. I researched previous testing procedures, checked my work with technicians and engineers, sourced the parts, and handled problems as they arose. One component of the spike puncture test had a tedious data analysis portion which took at least an hour per batch. I wrote a data analysis tool in VBA to automate this process, saving at least 20 hours of work. I also designed a fixture for the test to improve ergonomics. I regularly updated the client with progress updates. This was an invaluable experience in learning how to communicate effectively and occasionally give "bad news." I learned to lead with honesty and to be transparent, and everything would work out. 
+I led an IV spike validation project for a client from start to finish. I researched previous testing procedures, checked my work with technicians and engineers, sourced the parts, and handled problems as they arose. One component of the spike puncture test had a tedious data analysis portion which took at least an hour per batch. I wrote a data analysis tool in VBA (an Excel programming language) to automate this process, saving at least 20 hours of work. I also designed a fixture for the test to improve ergonomics. I regularly updated the client with progress updates. This was an invaluable experience in learning how to communicate effectively and occasionally give "bad news." I learned to lead with honesty and to be transparent, and everything would work out. 
 
 ### Undergraduate Research Assistant
 Aerosols in Medicine Lab (September 2023 to Present)
@@ -53,7 +61,6 @@ I built a custom program to convert CT scanned capsule shaped containers into cu
 
 ### Rxit Pill Dispenser
 An example of my 3D modeling, teamwork and communication skills is in the [Rxit](https://danmiltenberger.github.io/posts/Rxit_pill_dispenser/), which won first place in my Mechanical Systems Design class. 
-
 
 ### DrawBot
 An example of my programming and independent problem solving is [DrawBot](https://danmiltenberger.github.io/posts/drawbot/), a program which automated logistics diagrams at Mack. It saved money, time, and made a lot of people really happy. 
