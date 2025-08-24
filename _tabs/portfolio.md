@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "Portfolio"
-date: 2025-08-24
+icon: fas fa-address-book
+order: 2
 ---
 (This page is under construction!)
 

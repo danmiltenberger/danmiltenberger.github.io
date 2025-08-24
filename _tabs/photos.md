@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-camera
-order: 3
+order: 4
 ---
 
 After inheriting some lenses from my grandfather, I like to hunt around the city for interesting compositions. I shoot an OM-5 with either a 12mm prime or a 75-300mm telephoto. (and I've been having plenty of fun!)
