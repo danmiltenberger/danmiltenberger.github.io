@@ -9,7 +9,7 @@ I'm Dan Miltenberger, a masters student in mechanical engineering at University 
 
 Email: danmiltenberger25@gmail.com <br>
 [LinkedIn](https://www.linkedin.com/in/dan-miltenberger/) <br>
-[Portfolio](https://www.danmiltenberger.com/portfolio)  <br>
+[Portfolio](https://www.danmiltenberger.com/portfolio/)  <br>
 [Resume](https://www.danmiltenberger.com/resume/) <br>
 
 Best! <br>
